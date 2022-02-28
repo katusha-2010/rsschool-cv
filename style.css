@@ -13,12 +13,17 @@ body {
 
 header {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 100%;
     text-align: center;
     margin-top: 25px;
     margin-left: auto;
     margin-right: auto;         
+}
+
+.photo-name-wrapper {
+    display: flex;
+    flex-direction: row;
 }
 
 .box_photo {
@@ -102,10 +107,21 @@ pre {
 }
 
 ul {
-    list-style: none;
+    list-style: none;    
+}
+
+a {
+    text-decoration: none;    
 }
 
 .navigation {
     display: flex;
     justify-content: space-between;
+                
+}
+
+nav {
+    background: rgb(171, 166, 240);
+    padding-right: 40px ;   
+
 }
