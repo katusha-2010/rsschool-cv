@@ -14,3 +14,16 @@ My strenghts: eager to learn, purposeful, patient, team player.
 + HTML
 + CSS
 + Git/Github
+
+## Code Example
+```
+<p style="font-size:12px;font-weight:bold;">Маленький жирный шрифт</p>
+```
+
+## Experience
+
+## Education
+**University**: Belarusian National Technical University, Faculty of management technologies and humanization
+
+## Languages
+**English** - B2 (I practiced English with a native speaker in International House-english courses)
